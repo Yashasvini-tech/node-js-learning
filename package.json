@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "node js learning project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashasvini-tech/node-js-learning.git"
+  },
+  "author": "Yashasvini Swamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashasvini-tech/node-js-learning/issues"
+  },
+  "homepage": "https://github.com/Yashasvini-tech/node-js-learning#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
