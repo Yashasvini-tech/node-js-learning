@@ -1,6 +1,7 @@
-1. SSH key Generation
-2. Cloning the repo
-3. NPM installation
-4. express installation
-5. Readme file creation
-6. index.js creation
+SSH key Generation
+Cloning the repo
+NPM installation
+git init - Initializing git which adds .gitignore file
+express installation
+Readme file creation
+index.js creation
